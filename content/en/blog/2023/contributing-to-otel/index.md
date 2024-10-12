@@ -161,7 +161,7 @@ Now, before you go off writing code, you should make sure that you:
 3. Pop into one of the [SIG calls](https://shorturl.at/beJ09) and share your
    specific interests and needs
 
-I'm under no illusion that any contributing code to OTel is is a trivial task.
+I'm under no illusion that any contributing code to OTel is a trivial task.
 Far from it. If you do end up contributing code, one way to alleviate the
 stress/learning curve of doing it solo would be to pair with a willing OTel
 community member to implement these types of code changes. I've found folks
